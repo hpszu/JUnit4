@@ -9,6 +9,7 @@ public class UserTest {
 	@Test
 	public void testGetName() {
 		String name=new User().getName();
+		String a=new String();
 	}
 
 }
